@@ -28,6 +28,10 @@ https://leetcode.com/problems/non-overlapping-intervals
 
 
 31 oct 2022
-https://leetcode.com/problems/add-two-numbers/submissions/
+2. Sum of 2 singly link list
+https://leetcode.com/problems/add-two-numbers
+
+1024. Video Stitching
+https://leetcode.com/problems/video-stitching
 
 
