@@ -21,3 +21,13 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters
 https://leetcode.com/problems/minimum-size-subarray-sum/
 
 
+30th Oct 2022
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+https://leetcode.com/problems/degree-of-an-array/
+https://leetcode.com/problems/non-overlapping-intervals
+
+
+31 oct 2022
+https://leetcode.com/problems/add-two-numbers/submissions/
+
+
