@@ -4,6 +4,7 @@ link[https://leetcode.com/problems/longest-palindrome-by-concatenating-two-lette
 ```
 class Solution {
     public int longestPalindrome(String[] words) {
+        
         HashMap<String, Integer> count = new HashMap<String, Integer>();
         for (String word : words) {
             Integer countOfTheWord = count.get(word);
