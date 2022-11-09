@@ -35,3 +35,14 @@ https://leetcode.com/problems/add-two-numbers
 https://leetcode.com/problems/video-stitching
 
 
+Range Queries:
+
+https://leetcode.com/problems/range-sum-query-2d-immutable
+
+https://leetcode.com/problems/range-addition-ii
+
+https://leetcode.com/problems/range-addition 
+
+https://leetcode.com/problems/range-sum-query-immutable/ - Good Question
+
+https://leetcode.com/problems/range-sum-query-mutable/ : Segment tree.
