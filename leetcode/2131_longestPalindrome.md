@@ -31,14 +31,14 @@ class Solution {
             } else if (word.charAt(0) < word.charAt(1)) {
                 String reversedWord = "" + word.charAt(1) + word.charAt(0);
                 if (count.containsKey(reversedWord)) {
-                    answer += 2 * Math.min(countOfTheWord, count.get(reversedWord));
+                    answer += 2  Math.min(countOfTheWord, count.get(reversedWord));
                 }
             }
         }
         if (central) {
             answer++;
         }
-        return 2 * answer;
+        return 2  answer;
     }
 };
 ```

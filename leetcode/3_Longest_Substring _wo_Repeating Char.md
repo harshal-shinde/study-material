@@ -24,7 +24,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 Constraints:
 ```
-0 <= s.length <= 5 * 104
+0 <= s.length <= 5  104
 s consists of English letters, digits, symbols and spaces.
 ```
 

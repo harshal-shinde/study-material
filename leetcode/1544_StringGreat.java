@@ -1,6 +1,6 @@
-/*
- * https://leetcode.com/problems/make-the-string-great/
- */
+/
+  https://leetcode.com/problems/make-the-string-great/
+ /
 class Solution {
     public String makeGood(String s) {
         var sb = new StringBuilder();

@@ -2,7 +2,7 @@
 # Difference between @Controller & @RestController
 - These annotation are used during REST web service in spring
 - These annotation are writtern over class
-- When we declared annotation we need specify **@ResponseBody** annotation to serialize output
+- When we declared annotation we need specify @ResponseBody annotation to serialize output
 - @Restcontroller simplifies implementation of API , interanally it used @ResponseBody so we get seralized return object into HTTP Response
 - @RestController is specailized implementation of controller
 
@@ -18,7 +18,7 @@
 Jackson and jaxb are used to get response in JSON or XML format
 
 # Why Strings are immutable
-Strings are immutable because of **String pool** 
+Strings are immutable because of String pool 
 for Example 
 String str1 = "Harshal"
 String str2 = "Harshal"
