@@ -62,9 +62,20 @@ String immutability
 
 # What are the ways to test API's ?
 
+
 # Async implementation in spring microservices
 
-# iOC
+# iOC (Inversion of Control)
+Also known as **dependency injection**
+
+Object defines there dependencies through
+- Constructor arguments
+- Argument to factory method or properties are set when instance of object created or returned from facotry method
+- Bean itself controlling installation of dependencies by using direct construction of classses. This type of pattern knows **service locator pattern**
+
+Application context
+- Sub interface of **Bean Factory**
+
 
 # How to call another REST API from one REST service ?
   
